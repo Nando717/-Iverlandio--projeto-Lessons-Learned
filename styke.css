@@ -92,3 +92,14 @@
   .ver-planos {
     border: 1px solid white;
   }
+  .premium-buttons:hover{
+    background-color: gray;
+  }
+ li a:hover{
+  background-color: cadetblue;
+  border-radius: 20px;
+ 
+  
+ }
+  
+  
