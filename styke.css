@@ -101,5 +101,21 @@
  
   
  }
+
+ .mhy-premium{
+  text-align: center;
+ 
+ }
   
-  
+ .mhy-premium div{
+  display: inline-block;
+  margin: 20px;
+  margin-bottom: 50px;
+
+ } 
+ .mhy-premium h2{
+  margin: 50px 8px;
+ }
+ .mhy-premium img{
+  padding-bottom: 20px;
+ }
